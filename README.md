@@ -1,5 +1,5 @@
 # Promises
-Hey learn JavaScript Promises Here.
+Hey learn JavaScript Promises.
 
 
 # What is Promises
